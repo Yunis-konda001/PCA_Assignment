@@ -4,14 +4,14 @@ This project implements **Principal Component Analysis (PCA)** from scratch usin
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **`heart.csv`** dataset, which contains features related to heart health.  
 Each feature represents a measurable attribute of patients that can help analyze patterns in heart disease.
 
 ---
 
-## ⚙️ Implementation Steps
+## Implementation Steps
 
 The notebook walks through the full PCA process step by step:
 
@@ -57,5 +57,5 @@ The notebook walks through the full PCA process step by step:
 
 -Ensure you have the heart.csv file in the same directory as the notebook or provide the correct path.
 
-##Author
+## Author
 Kumi Yunis Konda
