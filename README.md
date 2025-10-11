@@ -5,15 +5,15 @@ This project implements **Principal Component Analysis (PCA)** from scratch usin
 ---
 
 ## Dataset
-
-The project uses the **`heart.csv`** dataset, which contains features related to heart health.  
-Each feature represents a measurable attribute of patients that can help analyze patterns in heart disease.
+The project uses the Education in General.csv dataset, which contains features related to education indicators.
+Each feature represents a measurable attribute such as literacy rates, enrollment levels, or access to educational resources, which can help analyze patterns and relationships within the education sector.
 
 ---
 
 ## Implementation Steps
 
-The notebook walks through the full PCA process step by step:
+The notebook walks through the full PCA process step by step: The project uses the Education in General.csv dataset, which contains features related to education indicators.
+Each feature represents a measurable attribute such as literacy rates, enrollment levels, or access to educational resources, which can help analyze patterns and relationships within the education sector.
 
 ### 1. Load and Standardize the Data
 - The dataset is loaded using `numpy.genfromtxt`.
